@@ -77,3 +77,5 @@ git comfig -- global user.email "Ваша электронная почта"
 
 3 Привязать репозиторий к gitHub git remote add origin
 
+4 В своем аккаунте на GitHub создать копию репозитория и другого аккаунта с помощью Fork.
+
